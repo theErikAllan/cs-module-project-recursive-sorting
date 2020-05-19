@@ -3,7 +3,8 @@ def merge(arrA, arrB):
     elements = len(arrA) + len(arrB)
     merged_arr = [0] * elements
 
-    # Your code here
+    # Your code here 
+    # Initial commit
 
 
     return merged_arr
